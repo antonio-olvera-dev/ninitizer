@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ninitizer"
+    }
+  },
+  "defaultProject": "ninitizer",
+  "cli": {
+    "analytics": "4447c270-906a-4af4-b50b-63e9c1342506"
+  }
 }
